@@ -1,0 +1,7 @@
+gradio
+tiktoken
+python-docx
+PyPDF2
+openai
+ipywidgets
+transformers
